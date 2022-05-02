@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>spring-qualifier</artifactId>
+    <artifactId>spring-qualifier-generic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-qualifier</name>
-    <description>spring-qualifier</description>
+    <name>spring-qualifier-generic</name>
+    <description>generic-type qualified beans autowiring</description>
     <properties>
         <java.version>11</java.version>
     </properties>
